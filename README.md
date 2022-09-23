@@ -6,4 +6,4 @@
 
 Technologies
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="python logo" width="50" height="50" />  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript logo" width="50" height="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="python logo" width="50" height="50" />  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react logo" width="50" height="50" />
