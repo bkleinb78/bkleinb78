@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @bkleinb78
-- 👀 I’m interested in technology, etc
-- 🌱 I’m currently learning how to code
+- 👋 Hi, I’m Brian
+- 👀 I’m interested in wanting to build applications and solving problems
+- 🌱 Software Developer and obtained a Certificate
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me kleinbergbrian.dev@gmail.com
 
