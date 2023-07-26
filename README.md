@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Brian
 - 👀 I’m interested in wanting to build applications and solving problems
-- 🌱 Software Developer and obtained a Certificate
+- 🌱 Learned web developing from a bootcamp
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me kleinbergbrian.dev@gmail.com
 
